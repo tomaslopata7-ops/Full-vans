@@ -18,6 +18,7 @@ First prototype development.
 - M1 homologation path for rear seating
 - Compact shower cabin, approximately 700 x 700 mm
 - Lightweight shower wall panels and shower tray
+- Shower tray supplier research and CAD data requests
 - Supplier outreach and technical evaluation
 
 ## Repository Structure
